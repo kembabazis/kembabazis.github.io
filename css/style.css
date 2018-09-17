@@ -1,6 +1,10 @@
 body{
 	font: 15px/1.5 Arial, Helvetica, sans-serif;
+<<<<<<< HEAD
 	background-color:gray;
+=======
+	background-color:grey;
+>>>>>>> 6b6038b16cb7ca53c5a1ae84c18461de05cc8c6f
 	padding: 0;
 	margin: 0;
 }
@@ -16,7 +20,11 @@ header ul{
 }
 /*header*/
 header{
+<<<<<<< HEAD
 	background: green;
+=======
+	background: #35424a;
+>>>>>>> 6b6038b16cb7ca53c5a1ae84c18461de05cc8c6f
 	color: #ffffff;
 	padding-top: 30px;
 	min-height: 70px;
